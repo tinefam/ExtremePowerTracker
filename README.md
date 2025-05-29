@@ -1,5 +1,5 @@
 # Extreme Power Tracker
-The program Related to the Extreme Power Tracker School Project, the ver.1.00 on 05/31/2024.
+The program related to the Extreme Power Tracker School Project, the first final version finished on 31/05/2024.
 Created by Francesco Tinelli.
 Project connection scheme: https://www.tinkercad.com/things/eC1d9tpJDxq-extreme-power-tracker?sharecode=RvZCEEvgZYbSNi_RTQwH67ehJ6O4CkxkqlyIsSviVI0
 
