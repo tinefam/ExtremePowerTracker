@@ -15,6 +15,8 @@ Once downloaded and loaded on the Arduino, you can fill in and consequently chan
 The program works on the Extreme Power Tracker project, which manages a solar pursuer allowing them to chase the sun via photojournalists.
 There are functions of predefined and manual movement accessible via the menu thanks to the Keypad. You can read the percentage of loading of the solar panels and photoresistences and you can also set a pin and block the device, if you do not want to access the menu.
 
+The program has italian comments due to the nature of the project.
+
 Credits:
 Uguraydigitaldesignn, seller of the first version of the program for the engineer engines.
 
