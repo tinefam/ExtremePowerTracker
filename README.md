@@ -1,6 +1,7 @@
 # Extreme Power Tracker
 The program Related to the Extreme Power Tracker School Project, the ver.1.00 on 05/31/2024.
 Created by Francesco Tinelli.
+Project connection scheme: https://www.tinkercad.com/things/eC1d9tpJDxq-extreme-power-tracker?sharecode=RvZCEEvgZYbSNi_RTQwH67ehJ6O4CkxkqlyIsSviVI0
 
 
 Downloaded the program, install the following bookstores through Arduino's IDE (possible with the latest updated version of the idea):
@@ -19,5 +20,6 @@ The program has italian comments due to the nature of the project.
 
 Credits:
 Uguraydigitaldesignn, seller of the first version of the program for the engineer engines.
+4^EA
 
 
