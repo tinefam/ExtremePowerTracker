@@ -1,4 +1,4 @@
-# Extremepowertracker
+# Extreme Power Tracker
 The program Related to the Extreme Power Tracker School Project, the ver.1.00 on 05/31/2024.
 Created by Francesco Tinelli.
 
