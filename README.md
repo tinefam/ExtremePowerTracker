@@ -9,7 +9,7 @@ Downloaded the program, install the following bookstores through Arduino's IDE (
 "Keypad.h"
 "Servo.h"
 
-In addition, the extra library(found in the repository) "Wire.h" is installed.
+In addition, the extra library (found in the repository) "Wire.h" is installed.
 
 Once downloaded and loaded on the Arduino, you can fill in and consequently change the program to your liking.
 
