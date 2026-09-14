@@ -22,4 +22,5 @@ Credits:
 Uguraydigitaldesignn, seller of the first version of the program for the engineer engines.
 4^EA
 
-
+![Extreme Power Tracker](image.jpg)
+*The completed solar tracking system*
